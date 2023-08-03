@@ -1,7 +1,7 @@
 const eventsPriority = {
-  LOW: 'low',
-  MEDIUM: 'medium',
-  HIGHT: 'high',
+  LOW: 'Low',
+  MEDIUM: 'Medium',
+  HIGHT: 'High',
 };
 
 module.exports = eventsPriority;
